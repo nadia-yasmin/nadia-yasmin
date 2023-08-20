@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Github merge-conflict resolve](https://github.com/mahfuj-ahmed-jim/git-github-exam)
 
-- 🌱 I’m currently learning **javascript, mongodb, node.js and many more**
+- 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nadia-yasmin](https://github.com/nadia-yasmin)
+- 👨‍💻 All of my projects are available at [My All Github Repositories](https://github.com/nadia-yasmin)
 
 - 📫 How to reach me **yasminnadia973@gmail.com, yasmin.nadia@g.bracu.ac.bd**
 
-- 📄 Know about my experiences [https://github.com/nadia-yasmin/cv](https://github.com/nadia-yasmin/cv)
+- 📄 Know about my experiences [Yasmin Nadia](https://nadia-yasmin.github.io/cv.github.io/)
 
 - ⚡ Fun fact **I love to bully people**
 
