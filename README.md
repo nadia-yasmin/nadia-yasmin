@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [Yasmin Nadia](https://nadia-yasmin.github.io/cv.github.io/)
 
-- ⚡ Fun fact **I love to bully people**
+- ⚡ Fun fact **No Fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
